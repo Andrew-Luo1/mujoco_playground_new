@@ -13,8 +13,6 @@
 # limitations under the License.
 # ==============================================================================
 """Debug environment for domain randomization."""
-import os
-from typing import Any, Dict, Optional, Union
 
 import jax
 import jax.numpy as jnp
